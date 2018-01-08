@@ -1,0 +1,11 @@
+用户名: aaa
+注册码1:h624pifAqt7It5e8boKkML+Y4RjDX5xknP4k7QktJYQoxsvv7VUS7hBCv/2ef45P 
+注册码2: 2GQrt5XHYY7SBK/4b22Gm4Dh8alaR0/0k3gEN5h7FkVPIn8oG3uphlOeytIajxGU 
+注册码3:+f4T7ql2FvMB6Jx0PvfoGBB8T5UdAfIZi3uJiP4VHI6xGkev7hKHh+xJrJDNZjRS
+
+如果您使用的为 Windows版： ① 将 lang 文件夹复制到类似
+     c:\Program Files (x86)\Axure\Axure RP Pro 7.0 Beta     (32位Windows) 或
+     c:\Program Files\Axure\Axure RP Pro 7.0 Beta      (64位 Windows) 目录中;
+    ② 启动 Axure 即可看到简体中文界面, 说明已成功汉化,如果仍为英文则一定是汉化文件位置不正确.
+
+    ■ 如果您使用的为 MAC 版： ① 在 应用程序 文件夹里找到Axure RP Pro 7.app程序，然后右键选择“显示包内容”，然后依次打开Contents/Resources文件夹; ② 将 lang 文件夹复制到这个目录下即可; ③ 启动 Axure 即可看到简体中文界面, 说明已成功汉化,如果仍为英文则一定是汉化文件位置不正确.
